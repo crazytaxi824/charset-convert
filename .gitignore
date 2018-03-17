@@ -1,0 +1,7 @@
+/.vscode
+/.idea
+/pkg
+/*.iml
+/*.gorun
+/src/main/debug
+/vendor
